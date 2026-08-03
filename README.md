@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Keshav 👋</h1>
 
-<!--
-**keshavgosar/keshavgosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Full-Stack Developer • Game Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building scalable web applications and immersive game experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://keshavgosar.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/keshav-gosar-479460227" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## > whoami
+
+```cpp
+class Keshav {
+public:
+    string role = "Software Developer";
+
+    vector<string> web = {
+        "Angular",
+        "React",
+        "Node.js",
+        "Express",
+        "PostgreSQL"
+    };
+
+    vector<string> gameDev = {
+        "Unity",
+        "Unreal Engine",
+        "C#",
+        "C++"
+    };
+
+    string hobbies = "Traveling & Mountain Trekking";
+};
+```
+
+## Tech Stack
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,postgresql" />
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,git,github,vscode" />
+
+</p>
